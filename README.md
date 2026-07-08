@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zoo Application
 
 TypeScript OOP project.
@@ -13,3 +14,5 @@ Technologies:
 - OOP
 - Interfaces
 - Generics
+
+
